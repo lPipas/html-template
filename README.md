@@ -1,1 +1,1 @@
-# canvas-template
+# html-template
